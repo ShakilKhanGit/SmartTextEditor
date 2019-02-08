@@ -2,3 +2,4 @@ This is a smart text editor app that includes intelligent modern editing feature
 
 The app runs best on Eclipse Oxygen on jre 1.8.0_161
 Clone the repo and import the MOOCTextEditor files (in each week's folder) into Eclipse.
+
